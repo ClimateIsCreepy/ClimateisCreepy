@@ -28,17 +28,22 @@
 
 ## 🧻**Motto**
 - *This human looks healthy and alive, let's fix that*
-<img src="https://cdn.discordapp.com/emojis/442626374738640896.png?size=64 ">
-- You believe in God, I believe in my Waifu  
-         -<img src="https://cdn.myanimelist.net/images/characters/15/409609.jpg">
+       <img src="https://cdn.discordapp.com/emojis/442626374738640896.png?size=64">
+- *You believe in God, I believe in my Waifu*  
+       <img src="https://cdn.myanimelist.net/images/characters/15/409609.jpg">
+
 
 ## 🔰 **Games**
 - 🍞Minecraft
 - 🐟 Hi3
 - 🌶️ AL
--
+- 🦸 MLBB
 ## 📎 **Projects**
 - 🎱 Working on a Discord bot using discord.py and discord.js
 - 🔩Building website using php
+
+## 🎶 **Life of a Simp**
+https://user-images.githubusercontent.com/85735927/135741562-cecd1521-b4fa-4e00-a6ba-006c5fa43b3d.mp4
+
 # **Thats all!**
-<img src="https://github.com/ClimateIsCreepy/ClimateisCreepy/blob/4ef80ba3a8a60b46a0f84dee81b0f058a9f03cf9/takaobeingtouched.gif">
+<img src="https://github.com/ClimateIsCreepy/ClimateisCreepy/blob/0dc0fb19f5990ad93350cff489820152436b5138/takaobeingtouched.gif">
