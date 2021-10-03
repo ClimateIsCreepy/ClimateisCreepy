@@ -1,5 +1,4 @@
 <img src="https://github.com/ClimateIsCreepy/ClimateisCreepy/blob/85501b812ae0ba4ecfbff6478cee0f77585e5ecc/HAH.jpg">
-### :
 <!--
 **ClimateIsCreepy/ClimateisCreepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+<!--
 ## 🧑‍🎓 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🏫 High school Student 
 - 🧑‍💻 Currently Learning C++
