@@ -1,24 +1,14 @@
 <img src="https://github.com/ClimateIsCreepy/ClimateisCreepy/blob/85501b812ae0ba4ecfbff6478cee0f77585e5ecc/HAH.jpg">
-<!--
-**ClimateIsCreepy/ClimateisCreepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+## 🙂**Intro**
 ## 🧑‍🎓 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🏫 High school Student 
 - 🧑‍💻 Currently Learning C++
 - 😳favorite emote😳
 - 🚴biker
 - 😢cries inside
+## :
 ## 🧻**Motto**
 - *This human looks healthy and alive, let's fix that*
+<img src="https://cdn.discordapp.com/emojis/442626374738640896.png?size=64 ">
 - You believe in God, I believe in my Waifu  
+         -<img src="https://cdn.myanimelist.net/images/characters/15/409609.jpg">
