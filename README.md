@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😢cries inside
 ## 🧻**Motto**
 - *This human looks healthy and alive, let's fix that*
-- You believe in God, I believe in my Waifu <img src="https://cdn.myanimelist.net/images/characters/15/409609.jpg"> 
+- You believe in God, I believe in my Waifu  
